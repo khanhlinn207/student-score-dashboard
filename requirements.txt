@@ -5,4 +5,4 @@ seaborn
 matplotlib
 plotly
 jinja2
-python-multipar
+python-multipart
